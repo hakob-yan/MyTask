@@ -1,0 +1,12 @@
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Manrope", sans-serif;
+  text-transform: uppercase;
+}
+body{
+  background-color: rgba(57, 42, 59, 0.4);
+
+}
